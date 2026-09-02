@@ -1,7 +1,7 @@
-<img width="5376" height="3584" alt="industrial-designer-digital-art" src="https://github.com/user-attachments/assets/9c513441-d5f7-457c-a4f6-c6d206b31d66" /><h1 align="center">Hi 👋, I'm Sadhana Kumari</h1>
+<h1 align="center">Hi 👋, I'm Sadhana Kumari</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="<img width="5376" height="3584" alt="industrial-designer-digital-art" src="https://github.com/user-attachments/assets/92af358b-6a98-4402-8a4f-83b34e59bbc8" /> ">
+<img align="right" alt="coding" width="100" src="<img width="5376" height="3584" alt="industrial-designer-digital-art" src="https://github.com/user-attachments/assets/92af358b-6a98-4402-8a4f-83b34e59bbc8" /> ">
 
 
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sadhanasharma5817@gmail.com**
 
-- 📄 Know about my experiences [Data Annotation Internship](Data Annotation Internship)
+- 📄 Know about my experiences [Data Annotation Internship]
 
 - ⚡ Fun fact **I Think I Am Funny 😅**
 
