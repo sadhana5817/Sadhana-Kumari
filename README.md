@@ -1,4 +1,4 @@
-![logo]<img width="1280" height="960" alt="WhatsApp Image 2026-09-20 at 9 52 24 PM" src="https://github.com/user-attachments/assets/15db7e02-0493-4d8c-ae34-3ca35c51b2c5" />
+<img width="1280" height="960" alt="WhatsApp Image 2026-09-20 at 9 52 24 PM" src="https://github.com/user-attachments/assets/15db7e02-0493-4d8c-ae34-3ca35c51b2c5" />
 
 <h1 align="center">Hi 👋, I'm Sadhana Kumari</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
