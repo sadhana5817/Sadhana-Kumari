@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sadhana Kumari</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-
-<img align="right" alt="coding" width="100" src="<img width="5376" height="3584" alt="industrial-designer-digital-art" src="https://github.com/user-attachments/assets/92af358b-6a98-4402-8a4f-83b34e59bbc8" /> ">
+src="<img width="5376" height="3584" alt="industrial-designer-digital-art" src="https://github.com/user-attachments/assets/92af358b-6a98-4402-8a4f-83b34e59bbc8" /> ">
 
 
 
